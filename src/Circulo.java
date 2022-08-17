@@ -2,9 +2,12 @@
 public class Circulo {
 
 		private Double radio;
-		
-		public void x (){
+
+		public void x() {
+			int i;
 			
-		};
+			System.out.println("");
+		}
+
 		
 }
